@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+me.tuzuku.mp.dynamic.table.config.DynamicTableNameConfig
