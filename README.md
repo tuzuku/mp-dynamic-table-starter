@@ -7,7 +7,7 @@ This starter provides dynamic table name functionality for MyBatis Plus in Sprin
 - Built for Spring Boot 3.3+
 - Uses MyBatis Plus 3.5.7
 
-# Usage
+## Usage
 **1. Enable the configuration**
 
 Add `@EnableDynamicTableName` to your main spring boot application  class.
